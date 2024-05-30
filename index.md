@@ -3,12 +3,13 @@ layout: resume
 title: Nadim-Daniel Ghaznavi - Resume
 markdown: GFM
 ---
-<p align="center">
 # Nadim-Daniel Ghaznavi
-nghaznavi@gmail.com
-(289) 639-2052
-Hamilton, ON, Canada
-</p>
+
+### nghaznavi@gmail.com
+
+### (289) 639-2052
+
+### Hamilton, ON, Canada
 
 # Career Summary
 
@@ -23,6 +24,8 @@ Accomplished professional with over 20 years of experience in corporate environm
 * October 2021 – April  2023
 
 As a Senior Security Analyst, contributed to a team dedicated to detecting insider threats by scrutinizing geolocation data of bank staff and contractors, flagging irregularities, and implementing and upholding BMO's encrypted e-mail attachment policies. Led the team in the manager’s absense, leveraging advanced technical skills, like Splunk queries and proprietary BMO tools to conduct thorough analysis.
+
+---
 
 ## Canadian Imperial Bank of Commerce – CIBC
 * High Availability Team Lead (full-time)
