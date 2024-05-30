@@ -1,13 +1,14 @@
 ---
 layout: resume
 title: Nadim-Daniel Ghaznavi - Resume
+markdown: GFM
 ---
 <p align="center">
 # Nadim-Daniel Ghaznavi
 nghaznavi@gmail.com
 (289) 639-2052
 Hamilton, ON, Canada
-</center>
+</p>
 
 # Career Summary
 
