@@ -15,7 +15,7 @@ markdown: GFM
 
 # Career Summary
 
-Accomplished professional with over 20 years of experience in corporate environments. Excellent verbal and written communication skills, adept at multi-tasking in fast-paced environments. Exceptional 1st, 2nd and 3rd level technical support, system administration and project management skills and computer expertise. Seeking a position that allows me to contibrute my diverse skill set.
+Accomplished professional with over 20 years of experience in corporate environments. Excellent verbal and written communication skills, adept at multi-tasking in fast-paced environments. Exceptional 1st, 2nd and 3rd level technical support, system administration and project management skills and computer expertise. Seeking a position that allows me to contribrute my diverse skill set.
 
 ---
 
