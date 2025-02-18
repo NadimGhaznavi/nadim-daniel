@@ -15,11 +15,18 @@ markdown: GFM
 
 # Career Summary
 
-Accomplished professional with over 20 years of experience in corporate environments. Excellent verbal and written communication skills, adept at multi-tasking in fast-paced environments. Exceptional technical support, system administration and project management skills and computer expertise. Seeking a position that allows me to contibrute my diverse skill set.
+Accomplished professional with over 20 years of experience in corporate environments. Excellent verbal and written communication skills, adept at multi-tasking in fast-paced environments. Exceptional 1st, 2nd and 3rd level technical support, system administration and project management skills and computer expertise. Seeking a position that allows me to contibrute my diverse skill set.
 
 ---
 
 # Employment History
+
+## Ghaznavi Consulting
+* Technical Specialist
+* Hamilton, Ontario
+* January 2024 - January 2025
+
+Architected and deployed a Monero XMR mining operation with hosting two full blockchains a P2Pool service and 7 workers. Authored a monitoring application to scrape the P2Pool logs, perform an ETL operation and pushed a CSV to a Github pages [website](https://xmr.osoyalce.com/) where Javascript is used to render near-realtime mining metrics. Created an simulator for [AI development](https://ai.osoyalce.com). Implemented Linear, RNN and CNN models to implement an AI agent to play the Snake Game,
 
 ## Bank of Montreal – BMO
 * Senior Security Analyst (contract)
