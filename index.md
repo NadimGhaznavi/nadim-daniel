@@ -28,6 +28,8 @@ Accomplished professional with over 20 years of experience in corporate environm
 
 Built a Monero XMR mining operation hosting two full blockchains a P2Pool service and 7 workers. Authored a monitoring application to scrape the P2Pool logs, perform an ETL operation and pushed a CSV to a Github pages [website](https://xmr.osoyalce.com/) where Javascript is used to render near-realtime mining metrics. Created an simulator for [AI development](https://ai.osoyalce.com). Implemented Linear, RNN and CNN models to implement an AI agent to play the Snake Game,
 
+---
+
 ## Bank of Montreal – BMO
 * Senior Security Analyst (contract)
 * Toronto, Ontario
