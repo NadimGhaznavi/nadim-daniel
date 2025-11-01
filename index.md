@@ -15,36 +15,51 @@ markdown: GFM
 
 # Career Summary
 
-Accomplished professional with over 20 years of experience in corporate environments. Excellent verbal and written communication skills, adept at multi-tasking in fast-paced environments. Exceptional 1st, 2nd and 3rd level technical support, system administration, project management and Python Programming. Seeking a position that allows me to contribrute my diverse skill set.
+Accomplished professional with over 20 years of experience spanning system administration, cybersecurity, and Python development. Known for strong analytical skills, leadership, and the ability to architect reliable, high-performance systems. Adept at evolving legacy infrastructure into modern, automated, data-driven platforms. Currently focused on developing open-source tools for AI research and cryptocurrency operations.
 
 ---
 
 # Employment History
 
 ## Ghaznavi Consulting
-* *Python Programmer*
+* *Python Programmer & Systems Architect*
 * Hamilton, Ontario
-* January 2024 - Present
+* January 2024 – Present
 
-Created the [AI Snake Lab](https://snakelab.osoyalce.com/) and [Db4E](https://db4e.osoyalce.com/) Python projects.
-* Hosted on [GitHub Pages](https://docs.github.com/en/pages) using a custom domain and a custom [Jekyll theme](https://github.com/NadimGhaznavi/minimax).
-* Established a comprehenive Git [branching strategy](https://snakelab.osoyalce.com/pages/git_branching_strategy.html) and [commit standards](https://snakelab.osoyalce.com/pages/git_commit_standards.html) policy to ensure maintainability and traceable development workflows.
-* Designed and implemented normalized SQLite schemas for both [Db4e](https://db4e.osoyalce.com/pages/Schema.html) and the [AI Snake Lab](https://snakelab.osoyalce.com/pages/Schema.html) supporting modular data access and persistence.
+Founded a consulting practice dedicated to designing, developing, and publishing open-source Python projects. Current projects include the [AI Snake Lab](https://snakelab.osoyalce.com/) and [Db4E](https://db4e.osoyalce.com/), both hosted on GitHub Pages and published to PyPI.
 
+* Built a custom Jekyll [documentation theme](https://github.com/NadimGhaznavi/minimax) and deployed it on GitHub Pages using a custom domain.
+* Established a comprehensive Git [branching strategy](https://snakelab.osoyalce.com/pages/git_branching_strategy.html) and [commit standards](https://snakelab.osoyalce.com/pages/git_commit_standards.html) to ensure maintainability and traceable workflows.
+* Designed and implemented normalized SQLite schemas for both [Db4E](https://db4e.osoyalce.com/pages/Schema.html) and the [AI Snake Lab](https://snakelab.osoyalce.com/pages/db_schema.html) to support modular data access and persistence.
+* Automated release workflows to publish [AI Snake Lab](https://pypi.org/project/ai-snake-lab/) and [Db4E](https://pypi.org/project/db4e/) directly to **PyPI**.
 
 ### AI Snake Lab — Reinforcement Learning Simulation Environment
+*October 2025 – Present*
 
-* October 2025 – Present
+A fully modular AI training environment for the classic Snake game, built with **Python** and **PyTorch**.
 
-Designed and implemented a fully modular AI training environment for the classic Snake Game using [Python](https://www.python.org/) and [PyTorch](https://pytorch.org/).
+* Developed Linear and RNN model architectures for agent training.
+* Implemented [adaptive epsilon decay](https://snakelab.osoyalce.com/pages/architecture.html#-epsilon-n) by score threshold, allowing agents to master each skill level before advancing.
+* Built a real-time **Textual** TUI displaying synchronized performance metrics and training data.
+* Engineered a distributed simulation architecture using **ZeroMQ** for multi-client, multi-node experiments.
+* Added historical data persistence via **SQLite** for reproducible training sessions.
 
-* Developed and compared Linear and RNN model architectures for AI agent performance.
-* Implemented [adaptive epsilon decay](https://snakelab.osoyalce.com/pages/architecture.html#-epsilon-n) by score threshold, enabling the agent to master each performance level before advancing.
-* Built a real-time [Textual](https://textual.textualize.io/) TUI displaying high scores, performance trends, and training metrics synchronized across multiple clients.
-* Engineered a distributed architecture with **SimServer**, **SimClient**, and **SimRouter** components using [ZeroMQ](https://zeromq.org/) to support multi-clients and remote deployments/
-* Added historical high-score persistence and client re-synchronization via [SQLite](https://www.sqlite.org/), ensuring data integrity and session continuity.
+**Tech Stack:** [Python](https://www.python.org/), [PyTorch](https://pytorch.org/), [ZeroMQ](https://zeromq.org/), [Textual](https://textual.textualize.io/), [SQLite](https://www.sqlite.org/), [asyncio](https://docs.python.org/3/library/asyncio.html), [NumPy](https://numpy.org/).
 
-Tech Stack: [Python](https://www.python.org/), [PyTorch](https://pytorch.org/), [ZeroMQ](https://zeromq.org/), [Textual](https://textual.textualize.io/), [SQLite](https://www.sqlite.org/), [asyncio](https://docs.python.org/3/library/asyncio.html) and [NumPy](https://numpy.org/).
+### Db4E — Cryptocurrency Deployment, Operation, and Analytics Platform
+*January 2024 – Present*
+
+A full-stack **Monero XMR** mining platform that unifies deployment, monitoring, and analytics.
+
+* Built a **Textual** [UI](https://db4e.osoyalce.com/pages/db4e-tui.py.html) for live configuration and performance visualization.
+* Architected service-based deployment with **systemd** for **Monero**, **P2Pool**, **XMRig**, and **Db4E** services.
+* Designed a synchronized client/server database system using **SQLite** and **asyncio**.
+* Integrated **FastAPI** and **Uvicorn** for bi-directional communication between clients and backend services.
+* Developed real-time analytics via **Textual-Plot** widgets for blockchain, pool, and miner statistics.
+* **Groundbreaking:** First Monero platform to feature historical analytics and reporting.
+
+**Tech Stack:** [Python](https://www.python.org), [Monero](https://www.getmonero.org/), [P2Pool](https://github.com/SChernykh/p2pool), [systemd](https://systemd.io/), [Textual](https://textual.textualize.io/), [SQLite](https://www.sqlite.org/), [asyncio](https://docs.python.org/3/library/asyncio.html), [FastAPI](fastapi.tiangolo.com), [Uvicorn](http://uvicorn.dev/).
+
 
 ---
 
