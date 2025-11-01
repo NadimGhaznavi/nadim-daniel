@@ -15,23 +15,41 @@ markdown: GFM
 
 # Career Summary
 
-Accomplished professional with over 20 years of experience in corporate environments. Excellent verbal and written communication skills, adept at multi-tasking in fast-paced environments. Exceptional 1st, 2nd and 3rd level technical support, system administration and project management skills and computer expertise. Seeking a position that allows me to contribrute my diverse skill set.
+Accomplished professional with over 20 years of experience in corporate environments. Excellent verbal and written communication skills, adept at multi-tasking in fast-paced environments. Exceptional 1st, 2nd and 3rd level technical support, system administration, project management and Python Programming. Seeking a position that allows me to contribrute my diverse skill set.
 
 ---
 
 # Employment History
 
 ## Ghaznavi Consulting
-* Technical Specialist
+* *Python Programmer*
 * Hamilton, Ontario
-* January 2024 - January 2025
+* January 2024 - Present
 
-Built a Monero XMR mining operation hosting two full blockchains a P2Pool service and 7 workers. Authored a monitoring application to scrape the P2Pool logs, perform an ETL operation and pushed a CSV to a Github pages [website](https://xmr.osoyalce.com/) where Javascript is used to render near-realtime mining metrics. Created an simulator for [AI development](https://ai.osoyalce.com). Implemented Linear, RNN and CNN models to implement an AI agent to play the Snake Game,
+Created the [AI Snake Lab](https://snakelab.osoyalce.com/) and [Db4E](https://db4e.osoyalce.com/) Python projects.
+* Hosted on [GitHub Pages](https://docs.github.com/en/pages) using a custom domain and a custom [Jekyll theme](https://github.com/NadimGhaznavi/minimax).
+* Established a comprehenive Git [branching strategy](https://snakelab.osoyalce.com/pages/git_branching_strategy.html) and [commit standards](https://snakelab.osoyalce.com/pages/git_commit_standards.html) policy to ensure maintainability and traceable development workflows.
+* Designed and implemented normalized SQLite schemas for both [Db4e](https://db4e.osoyalce.com/pages/Schema.html) and the [AI Snake Lab](https://snakelab.osoyalce.com/pages/Schema.html) supporting modular data access and persistence.
+
+
+### AI Snake Lab — Reinforcement Learning Simulation Environment
+
+* October 2025 – Present
+
+Designed and implemented a fully modular AI training environment for the classic Snake Game using [Python](https://www.python.org/) and [PyTorch](https://pytorch.org/).
+
+* Developed and compared Linear and RNN model architectures for AI agent performance.
+* Implemented [adaptive epsilon decay](https://snakelab.osoyalce.com/pages/architecture.html#-epsilon-n) by score threshold, enabling the agent to master each performance level before advancing.
+* Built a real-time [Textual](https://textual.textualize.io/) TUI displaying high scores, performance trends, and training metrics synchronized across multiple clients.
+* Engineered a distributed architecture with **SimServer**, **SimClient**, and **SimRouter** components using [ZeroMQ](https://zeromq.org/) to support multi-clients and remote deployments/
+* Added historical high-score persistence and client re-synchronization via [SQLite](https://www.sqlite.org/), ensuring data integrity and session continuity.
+
+Tech Stack: [Python](https://www.python.org/), [PyTorch](https://pytorch.org/), [ZeroMQ](https://zeromq.org/), [Textual](https://textual.textualize.io/), [SQLite](https://www.sqlite.org/), [asyncio](https://docs.python.org/3/library/asyncio.html) and [NumPy](https://numpy.org/).
 
 ---
 
 ## Bank of Montreal – BMO
-* Senior Security Analyst (contract)
+* *Senior Security Analyst (contract)*
 * Toronto, Ontario
 * October 2021 – April  2023
 
@@ -40,7 +58,7 @@ As a Senior Security Analyst, contributed to a team dedicated to detecting insid
 ---
 
 ## Canadian Imperial Bank of Commerce – CIBC
-* High Availability Team Lead (full-time)
+* *High Availability Team Lead (full-time)*
 * Toronto, Ontario
 * October 2013 – December 2016
 
@@ -49,7 +67,7 @@ Promoted within a year to lead a top-tier IT operations team, maintaining critic
 ---
 
 ## Keek
-* Senior Systems Administrator (full-time)
+* *Senior Systems Administrator (full-time)*
 * Toronto, Ontario
 * April 2013 – June 2013
 
@@ -58,7 +76,7 @@ Contributed to enhancing and scaling Keek’s computing infrastructure. As part 
 ---
 
 ## Moneris Payment Solutions 
-* Linux Team Manager (full-time)
+* *Linux Team Manager (full-time)*
 * Toronto, Ontario
 * October 2009 - December 2012
 
@@ -67,7 +85,7 @@ Linux Team Manager at Moneris Payment Solutions, Canada’s leading payment proc
 ---
 
 ## Morgan Stanley
-* C/C++ Tool Support Analyst (contract)
+* *C/C++ Tool Support Analyst (contract)*
 * New York, New York
 * January 2008 – April 2009
 
@@ -76,7 +94,7 @@ Ensured the functionality and accessibility of the programmer tools utilized by 
 ---
 
 ## Merril Lynch
-* Compliance Plant Support (contract)
+* *Compliance Plant Support (contract)*
 * New York, New York
 * April 2007-  October 2007
 
@@ -85,7 +103,7 @@ Managed a compliance system mandated by NASDAQ for major institutions. Tracked t
 ---
 
 ## Morgan Stanley
-* R&D Business Intelligence Analyst (contract)
+* *R&D Business Intelligence Analyst (contract)*
 * New York, New York
 * November 2004 - April 2007
 
@@ -94,7 +112,7 @@ Oversaw the research, documention, and assessed new software platforms within Bu
 ---
 
 ## Xpedite 
-* IT Manager / Systems Architect (contract)
+* *IT Manager / Systems Architect (contract)*
 * Toronto, Ontario
 * May 2003 – April 2004
 
@@ -103,7 +121,7 @@ Orchestrated the setup, construction, and operation of the computing infrastruct
 ---
 
 ## Cadence Design Systems
-* Infrastructure Developer (contract)
+* *Infrastructure Developer (contract)*
 * Ottawa, Ontario
 * June 2002 – December 2002
 
@@ -112,7 +130,7 @@ Created a solution that provided a consistent user interface for Unix based desk
 ---
 
 ## SiGe Semiconductor
-* Senior Systems Administrator (contract)
+* *Senior Systems Administrator (contract)*
 * Ottawa, Ontario
 * March 2001 – May 2002
 
@@ -121,7 +139,7 @@ Supported 120 emplyees across four offices, three in Ottawa, one in the UK, and 
 ---
 
 ## Nortel Networks
-* Web & Streaming Media Support (contract)
+* *Web & Streaming Media Support (contract)*
 * Ottawa, Ontario
 * October 2000 – February 2001
 
@@ -130,7 +148,7 @@ Supported over a hundred proxy servers deployed globally near local Internet acc
 ---
 
 ## Cebra / MERX
-* IT Manager, Systems & Network Administrator, Security Analyst (contract)
+* *IT Manager, Systems & Network Administrator, Security Analyst (contract)*
 * Ottawa, Ontario
 * September 1999 – September 2000
 
@@ -139,7 +157,7 @@ Supported all of the computing systems, infrastructure and networks including cl
 ---
 
 ## Canada Revenue Agency
-* CS-2 promoted to CS-3 (full-time)
+* *CS-2 promoted to CS-3 (full-time)*
 * Ottawa, Ontario
 * May 1997 – September 1999
 
@@ -148,7 +166,7 @@ Hired as a Computer Systems (CS) 2 level analyst at the Ottawa data centre. Prov
 ---
 
 ## CADlink Technology Corporation
-* Systems, Network and Desktop Support (full-time)
+* *Systems, Network and Desktop Support (full-time)*
 * Ottawa, Ontario
 * June 1995 – May 1997
 
