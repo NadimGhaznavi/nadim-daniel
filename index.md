@@ -58,7 +58,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 * Developed real-time analytics via **Textual-Plot** widgets for blockchain, pool, and miner statistics.
 * **Groundbreaking:** First Monero platform to feature historical analytics and reporting.
 
-**Tech Stack:** [Python](https://www.python.org), [Monero](https://www.getmonero.org/), [P2Pool](https://github.com/SChernykh/p2pool), [XMRig](https://xmrig.com/), [systemd](https://systemd.io/), [Textual](https://textual.textualize.io/), [SQLite](https://www.sqlite.org/), [asyncio](https://docs.python.org/3/library/asyncio.html), [FastAPI](fastapi.tiangolo.com), [Uvicorn](http://uvicorn.dev/).
+**Tech Stack:** [Python](https://www.python.org), [Monero](https://www.getmonero.org/), [P2Pool](https://github.com/SChernykh/p2pool), [XMRig](https://xmrig.com/), [systemd](https://systemd.io/), [Textual](https://textual.textualize.io/), [SQLite](https://www.sqlite.org/), [asyncio](https://docs.python.org/3/library/asyncio.html), [FastAPI](https://fastapi.tiangolo.com), [Uvicorn](http://uvicorn.dev/).
 
 
 ---
