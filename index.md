@@ -23,9 +23,9 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 
 ## Ghaznavi Consulting
 
-| Python Programmer & Systems Architect - Hamilton, Ontario
-|------------------------------------------------------------------
-| January 2024 – Present                 
+| Python Programmer & Systems Architect - Hamilton, Ontario |
+|-----------------------------------------------------------|
+| January 2024 – Present                                    |
 
 Founded a consulting practice dedicated to designing, developing, and publishing open-source Python projects. Current projects include the [AI Snake Lab](https://snakelab.osoyalce.com/) and [Db4E](https://db4e.osoyalce.com/), both hosted on GitHub Pages and published to PyPI.
 
@@ -65,9 +65,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Bank of Montreal – BMO
-| Senior Security Analyst (contract) - Toronto, Ontario
-|-----------------------------------------------------------
-| October 2021 – April  2023
+| Senior Security Analyst (contract) - Toronto, Ontario |
+|-------------------------------------------------------|
+| October 2021 – April  2023                            |
 
 - Analyzed geolocation and access data to identify potential insider threats, improving security monitoring processes.
 - Enforced encrypted email attachment policies, enhancing compliance with corporate data protection standards.
@@ -77,9 +77,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Gilbert's Tire Sales and Service
-| Tire Technician (full-time) - Hamilton, Ontario
-|---------------------------------------------------
-| August 2020 - September 2021
+| Tire Technician (full-time) - Hamilton, Ontario |
+|-------------------------------------------------|
+| August 2020 - September 2021                    |
 
 - Mounted, balanced, and repaired tires for cars and trucks in a fast-paced, collaborative environment.
 - Maintained high service quality and safety standards while managing multiple tasks simultaneously.
@@ -87,9 +87,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Ready Set Go
-| Tire Technician (full-time) - Hamilton, Ontario
-|----------------------------------------------------
-| October 2018 - July 2020
+| Tire Technician (full-time) - Hamilton, Ontario |
+|-------------------------------------------------|
+| October 2018 - July 2020                        |
 
 - Performed full-service tire operations, including mounting, balancing, and repair for cars and semi-trucks.
 - Managed shop operations independently, including client relations, job scheduling, sales, and payment processing.
@@ -97,9 +97,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Landscape Consulting
-| Landscaper - Hamilton, Ontario
-|-----------------------------------
-| April 2018 - September 2018
+| Landscaper - Hamilton, Ontario |
+|--------------------------------|
+| April 2018 - September 2018    |
 
 - Constructed fences, laid patio stones, and performed landscaping tasks for residential and commercial clients.
 - Maintained commercial properties using landscaping equipment and ensured timely completion of projects.
@@ -107,9 +107,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Canadian Imperial Bank of Commerce – CIBC
-| High Availability Team Lead (full-time) - Toronto, Ontario
-|---------------------------------------------------------------
-| October 2013 – December 2016
+| High Availability Team Lead (full-time) - Toronto, Ontario |
+|------------------------------------------------------------|
+| October 2013 – December 2016                               |
 
 - Promoted within a year to lead a high-availability IT operations team supporting revenue-critical applications, including CIBC’s automated foreign exchange trading platform.
 - Coordinated team efforts to optimize service delivery, reducing downtime and ensuring uninterrupted transaction processing.
@@ -119,9 +119,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Keek
-| Senior Systems Administrator (full-time) - Toronto, Ontario
-|----------------------------------------------------------------
-| April 2013 – June 2013
+| Senior Systems Administrator (full-time) - Toronto, Ontario |
+|-------------------------------------------------------------|
+| April 2013 – June 2013                                      |
 
 - Monitored overnight application performance and executed service restarts to maintain uptime.
 - Deployed 50+ new servers from hardware setup to production readiness, ensuring operational continuity.
@@ -130,9 +130,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Moneris Payment Solutions 
-| Linux Team Manager (full-time) - Toronto, Ontario
-|-----------------------------------------------------
-| October 2009 - December 2012
+| Linux Team Manager (full-time) - Toronto, Ontario |
+|---------------------------------------------------|
+| October 2009 - December 2012                      |
 
 - Led the Linux team responsible for maintaining high-availability transaction servers processing 250+ transactions per second.
 - Collaborated with other teams and vendors to troubleshoot and resolve production issues, ensuring minimal downtime.
@@ -144,10 +144,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Morgan Stanley
-| C/C++ Tool Support Analyst (contract) - New York, New York
-|---------------------------------------------------------------
-| January 2008 – April 2009
-
+| C/C++ Tool Support Analyst (contract) - New York, New York |
+|------------------------------------------------------------|
+| January 2008 – April 2009                                  |
 - Supported global C/C++ developer tools, maintaining a centralized wiki and documentation repository.
 - Supported the global Makefile build system.
 - Conducted testing on new tools and established a centralized Wiki-based documentation repository for company programmers.
@@ -156,9 +155,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Merril Lynch
-| Compliance Plant Support (contract) | New York, New York
-|-------------------------------------------------------------
-| April 2007-  October 2007
+| Compliance Plant Support (contract) | New York, New York |
+|----------------------------------------------------------|
+| April 2007 - October 2007                                |
 
 - Oversaw a NASDAQ-mandated compliance application for large financial institutions, ensuring accurate tracking of trade activity down to the second.
 - Managed the nightly batch process to guarantee timely electronic transfer of compliance records to NASDAQ.
@@ -168,9 +167,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Morgan Stanley
-| R&D Business Intelligence Analyst (contract) - New York, New York
-|---------------------------------------------------------------------
-| November 2004 - April 2007
+| R&D Business Intelligence Analyst (contract) - New York, New York |
+|-------------------------------------------------------------------|
+| November 2004 - April 2007                                        |
 
 - Investigated and evaluated new business intelligence software platforms, producing detailed technical assessments.
 - Built test harnesses for stress and functional testing, ensuring accurate performance evaluation.
@@ -180,9 +179,10 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Xpedite 
-| IT Manager / Systems Architect (contract) - Toronto, Ontario
-|----------------------------------------------------------------
-| May 2003 – April 2004
+| IT Manager / Systems Architect (contract) - Toronto, Ontario |
+|--------------------------------------------------------------|
+| May 2003 – April 2004                                        |
+
 
 - Designed, deployed and then supported complete IT infrastructure for the new Toronto office, supporting local and remote teams.
 - Built enterprise system from 2 laptop prototype to clustered, 3-tierd, 13 production server deployment.
@@ -191,9 +191,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Cadence Design Systems
-| Infrastructure Developer (contract) - Ottawa, Ontario
-|---------------------------------------------------------
-| June 2002 – December 2002
+| Infrastructure Developer (contract) - Ottawa, Ontario |
+|-------------------------------------------------------|
+| June 2002 – December 2002                             |
 
 - Developed a unified Unix-based desktop environment across 20+ locations, supporting various versions of different operating systems including Solaris, Linux, HP-UX, and AIX.
 - Improved user experience and tool accessibility for cross-location teams, enhancing operational efficiency and product platform consistency.
@@ -201,9 +201,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## SiGe Semiconductor
-| Senior Systems Administrator (contract) - Ottawa, Ontario
-|-------------------------------------------------------------
-| March 2001 – May 2002
+| Senior Systems Administrator (contract) - Ottawa, Ontario |
+|-----------------------------------------------------------|
+| March 2001 – May 2002                                     |
 
 - Supported 120 workers across four offices in Canada, UK, and France, providing Linux system administration for workstations, thin clients and simulation servers as well as network troubleshooting.
 - Developed custom solutions for remote R&D office, including backup and recovery processes.
@@ -211,9 +211,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Nortel Networks
-| Web & Streaming Media Support (contract) - Ottawa, Ontario
-|--------------------------------------------------------------
-| October 2000 – February 2001
+| Web & Streaming Media Support (contract) - Ottawa, Ontario |
+|------------------------------------------------------------|
+| October 2000 – February 2001                               |
 
 - Managed 100+ proxy servers globally, providing technical support via email, phone, and Remedy ticketing system.
 - Ensured consistent operation and connectivity across distributed server infrastructure.
@@ -221,9 +221,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Cebra / MERX
-| IT Manager, Systems & Network Administrator, Security Analyst (contract) - Ottawa, Ontario
-|----------------------------------------------------------------------------------------------
-| September 1999 – September 2000
+| IT Manager, Systems & Network Administrator, Security Analyst (contract) - Ottawa, Ontario |
+|--------------------------------------------------------------------------------------------|
+| September 1999 – September 2000                                                            |
 
 - Administered all company networks, file transfer servers, databases, and clustered web applications.
 - Implemented change management procedures and automated monitoring systems, reducing on-call support costs.
@@ -232,9 +232,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Canada Revenue Agency
-| CS-2 promoted to CS-3 (full-time) - Ottawa, Ontario
-|--------------------------------------------------------
-| May 1997 – September 1999
+| CS-2 promoted to CS-3 (full-time) - Ottawa, Ontario |
+|-----------------------------------------------------|
+| May 1997 – September 1999                           |
 
 - Managed Solaris server platforms and provided third-level support for e-commerce systems.
 - Contributed to architecture of mainframe to web applications, delivering technical presentations to stakeholders.
@@ -243,9 +243,9 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## CADlink Technology Corporation
-| Systems, Network and Desktop Support (full-time) - Ottawa, Ontario
-|------------------------------------------------------------------------
-| June 1995 – May 1997
+| Systems, Network and Desktop Support (full-time) - Ottawa, Ontario |
+|--------------------------------------------------------------------|
+| June 1995 – May 1997                                               |
 
 - Built the company’s online presence and Linux backend services for email, file transfer, and web hosting.
 - Migrated services to Windows server platform and implemented standardized server configurations.
