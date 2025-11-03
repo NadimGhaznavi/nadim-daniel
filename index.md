@@ -23,9 +23,9 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 
 ## Ghaznavi Consulting
 
-Python Programmer & Systems Architect | Hamilton, Ontario
---------------------------------------|----------------------------
-                                      | January 2024 – Present
+| Python Programmer & Systems Architect - Hamilton, Ontario
+|------------------------------------------------------------------
+| January 2024 – Present                 
 
 Founded a consulting practice dedicated to designing, developing, and publishing open-source Python projects. Current projects include the [AI Snake Lab](https://snakelab.osoyalce.com/) and [Db4E](https://db4e.osoyalce.com/), both hosted on GitHub Pages and published to PyPI.
 
