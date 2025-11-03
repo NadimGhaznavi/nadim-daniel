@@ -65,6 +65,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Bank of Montreal – BMO
+
 | Senior Security Analyst (contract) - Toronto, Ontario |
 |-------------------------------------------------------|
 | October 2021 – April  2023                            |
@@ -77,6 +78,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Gilbert's Tire Sales and Service
+
 | Tire Technician (full-time) - Hamilton, Ontario |
 |-------------------------------------------------|
 | August 2020 - September 2021                    |
@@ -87,6 +89,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Ready Set Go
+
 | Tire Technician (full-time) - Hamilton, Ontario |
 |-------------------------------------------------|
 | October 2018 - July 2020                        |
@@ -97,6 +100,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Landscape Consulting
+
 | Landscaper - Hamilton, Ontario |
 |--------------------------------|
 | April 2018 - September 2018    |
@@ -107,6 +111,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Canadian Imperial Bank of Commerce – CIBC
+
 | High Availability Team Lead (full-time) - Toronto, Ontario |
 |------------------------------------------------------------|
 | October 2013 – December 2016                               |
@@ -119,6 +124,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Keek
+
 | Senior Systems Administrator (full-time) - Toronto, Ontario |
 |-------------------------------------------------------------|
 | April 2013 – June 2013                                      |
@@ -130,6 +136,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Moneris Payment Solutions 
+
 | Linux Team Manager (full-time) - Toronto, Ontario |
 |---------------------------------------------------|
 | October 2009 - December 2012                      |
@@ -144,9 +151,11 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Morgan Stanley
+
 | C/C++ Tool Support Analyst (contract) - New York, New York |
 |------------------------------------------------------------|
 | January 2008 – April 2009                                  |
+
 - Supported global C/C++ developer tools, maintaining a centralized wiki and documentation repository.
 - Supported the global Makefile build system.
 - Conducted testing on new tools and established a centralized Wiki-based documentation repository for company programmers.
@@ -155,6 +164,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Merril Lynch
+
 | Compliance Plant Support (contract) | New York, New York |
 |----------------------------------------------------------|
 | April 2007 - October 2007                                |
@@ -167,6 +177,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Morgan Stanley
+
 | R&D Business Intelligence Analyst (contract) - New York, New York |
 |-------------------------------------------------------------------|
 | November 2004 - April 2007                                        |
@@ -179,6 +190,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Xpedite 
+
 | IT Manager / Systems Architect (contract) - Toronto, Ontario |
 |--------------------------------------------------------------|
 | May 2003 – April 2004                                        |
@@ -191,6 +203,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Cadence Design Systems
+
 | Infrastructure Developer (contract) - Ottawa, Ontario |
 |-------------------------------------------------------|
 | June 2002 – December 2002                             |
@@ -201,6 +214,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## SiGe Semiconductor
+
 | Senior Systems Administrator (contract) - Ottawa, Ontario |
 |-----------------------------------------------------------|
 | March 2001 – May 2002                                     |
@@ -211,6 +225,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Nortel Networks
+
 | Web & Streaming Media Support (contract) - Ottawa, Ontario |
 |------------------------------------------------------------|
 | October 2000 – February 2001                               |
@@ -221,6 +236,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Cebra / MERX
+
 | IT Manager, Systems & Network Administrator, Security Analyst (contract) - Ottawa, Ontario |
 |--------------------------------------------------------------------------------------------|
 | September 1999 – September 2000                                                            |
@@ -232,6 +248,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## Canada Revenue Agency
+
 | CS-2 promoted to CS-3 (full-time) - Ottawa, Ontario |
 |-----------------------------------------------------|
 | May 1997 – September 1999                           |
@@ -243,6 +260,7 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 ## CADlink Technology Corporation
+
 | Systems, Network and Desktop Support (full-time) - Ottawa, Ontario |
 |--------------------------------------------------------------------|
 | June 1995 – May 1997                                               |

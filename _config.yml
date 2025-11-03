@@ -1,4 +1,4 @@
-remote_theme: NadimGhaznavi/minimax
+remote_theme: NadimGhaznavi/minimo
 
 plugins:
   - jekyll-relative-links
