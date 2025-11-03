@@ -22,9 +22,9 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 # Employment History
 
 ## Ghaznavi Consulting
-* *Python Programmer & Systems Architect*
-* Hamilton, Ontario
-* January 2024 – Present
+**Python Programmer & Systems Architect**
+**Hamilton, Ontario**
+**January 2024 – Present**
 
 Founded a consulting practice dedicated to designing, developing, and publishing open-source Python projects. Current projects include the [AI Snake Lab](https://snakelab.osoyalce.com/) and [Db4E](https://db4e.osoyalce.com/), both hosted on GitHub Pages and published to PyPI.
 
@@ -261,19 +261,19 @@ A full-stack **Monero XMR** mining platform that unifies deployment, monitoring,
 ---
 
 # Education
-* Bachelor of Art / Political Studies at Trent University, Peterborough, Ontario, 1993
-* Computer Science 3rd Year Carleton University, Ottawa, Ontario, 1995
-* Ongoing self-education in IT, AI/ML and Python programming technologies
+- Bachelor of Art / Political Studies at Trent University, Peterborough, Ontario, 1993
+- Computer Science 3rd Year Carleton University, Ottawa, Ontario, 1995
+- Ongoing self-education in IT, AI/ML and Python programming technologies
 
 ---
 
 # Industry Awards
-* CIBC Quarterly Achiever Award - 2015
-* CIBC Impact Award - 2014
-* Keane Award for Excellence - 2006
-* Morgan Stanley Global Operations and Services Award for Excellence - 2005
-* Keane “K” Pin - 2005
-* Canadian Information Productivity Award (CIPA) - 2000
+- CIBC Quarterly Achiever Award - 2015
+- CIBC Impact Award - 2014
+- Keane Award for Excellence - 2006
+- Morgan Stanley Global Operations and Services Award for Excellence - 2005
+- Keane “K” Pin - 2005
+- Canadian Information Productivity Award (CIPA) - 2000
 
 ---
 
