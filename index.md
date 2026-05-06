@@ -15,7 +15,7 @@ markdown: GFM
 
 # Career Summary
 
-Systems architect and Linux systems professional with 20+ years of experience building and maintaining complex infrastructure. Recently expanded into AI/ML with the development of *AI Snake Lab* and explored security analysis during a 1.5-year senior analyst role. Proven ability to lead technical teams, optimize workflows, and deliver reliable solutions in high-stakes environments. Took a planned career break from IT to focus on hands-on work and personal projects.
+Systems architect and Linux systems professional with 20+ years of experience building and maintaining complex infrastructure. Recently expanded into AI/ML with the development of **AI Snake Lab** and **AI Hydra** and explored security analysis during a 1.5-year senior analyst role. Proven ability to lead technical teams, optimize workflows, and deliver reliable solutions in high-stakes environments. Took a planned career break from IT to focus on hands-on work and personal projects.
 
 ---
 
@@ -27,15 +27,8 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 |-----------------------------------------------------------|
 | January 2024 – Present                                    |
 
-Founded a consulting practice dedicated to designing, developing, and publishing open-source Python projects. Current projects include the [AI Snake Lab](https://snakelab.osoyalce.com/) and [Db4E](https://db4e.osoyalce.com/), both hosted on GitHub Pages and published to PyPI.
-
-- Built a custom Jekyll [documentation theme](https://github.com/NadimGhaznavi/minimax) and deployed it on GitHub Pages using a custom domain.
-- Established a comprehensive Git [branching strategy](https://snakelab.osoyalce.com/pages/git_branching_strategy.html) and [commit standards](https://snakelab.osoyalce.com/pages/git_commit_standards.html) to ensure maintainability and traceable workflows.
-- Designed and implemented normalized SQLite schemas for both [Db4E](https://db4e.osoyalce.com/pages/Schema.html) and the [AI Snake Lab](https://snakelab.osoyalce.com/pages/db_schema.html) to support modular data access and persistence.
-- Automated release workflows to publish [AI Snake Lab](https://pypi.org/project/ai-snake-lab/) and [Db4E](https://pypi.org/project/db4e/) directly to **PyPI**.
-
 ### AI Snake Lab — Reinforcement Learning Simulation Environment
-*October 2025 – Present*
+*October 2025 – April 2026*
 
 A fully modular AI training environment for the classic Snake game, built with **Python** and **PyTorch**.
 
