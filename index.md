@@ -27,10 +27,26 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 |-----------------------------------------------------------|
 | January 2024 – Present                                    |
 
+### Snake Lab Server - Simulation Server
+*September 2026*
+
+The [Snake Lab Server](http://snakelabserver.osoyalce.com) project builds on the **AI Snake Lab** project.
+
+The project:
+
+- Runs an AI Snake simulation server as Linux systemd service.
+- Accepts a JSON simulation configuration over ZeroMQ.
+- Executes the simulation with the provided configuration.
+- Stores the configuration and the results in a **MariaDB** database.
+- Includes a rich **Textual** TUI to display the current server status and load configurations.
+
+**Tech Stack:** 
+[Python](https://www.python.org/), [PyTorch](https://pytorch.org/), [ZeroMQ](https://zeromq.org/), [Textual](https://textual.textualize.io/), [MariaDb](https://www.mariadb.com/), [asyncio](https://docs.python.org/3/library/asyncio.html), [NumPy](https://numpy.org/).
+
 ### AI Snake Lab — Reinforcement Learning Simulation Environment
 *October 2025 – April 2026*
 
-A fully modular AI training environment for the classic Snake game, built with **Python** and **PyTorch**.
+The [AI Snake Lab](https://snakelab.osoyalce.com) is a fully modular AI training environment for the classic Snake game, built with **Python** and **PyTorch**.
 
 - Developed Linear and RNN model architectures for agent training.
 - Implemented [adaptive epsilon decay](https://snakelab.osoyalce.com/pages/architecture.html#-epsilon-n) by score threshold, allowing agents to master each skill level before advancing.
