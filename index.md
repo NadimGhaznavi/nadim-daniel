@@ -56,21 +56,6 @@ The [AI Snake Lab](https://snakelab.osoyalce.com) is a fully modular AI training
 
 **Tech Stack:** [Python](https://www.python.org/), [PyTorch](https://pytorch.org/), [ZeroMQ](https://zeromq.org/), [Textual](https://textual.textualize.io/), [SQLite](https://www.sqlite.org/), [asyncio](https://docs.python.org/3/library/asyncio.html), [NumPy](https://numpy.org/).
 
-### Db4E — Cryptocurrency Deployment, Operation, and Analytics Platform
-*January 2024 – Present*
-
-A full-stack **Monero XMR** mining platform that unifies deployment, monitoring, and analytics.
-
-- Built a **Textual** [UI](https://db4e.osoyalce.com/pages/db4e-tui.py.html) for live configuration and performance visualization.
-- Architected service-based deployment with **systemd** for **Monero**, **P2Pool**, **XMRig**, and **Db4E** services.
-- Designed a synchronized client/server database system using **SQLite** and **asyncio**.
-- Integrated **FastAPI** and **Uvicorn** for bi-directional communication between clients and backend services.
-- Developed real-time analytics via **Textual-Plot** widgets for blockchain, pool, and miner statistics.
-- **Groundbreaking:** First Monero platform to feature historical analytics and reporting.
-
-**Tech Stack:** [Python](https://www.python.org), [Monero](https://www.getmonero.org/), [P2Pool](https://github.com/SChernykh/p2pool), [XMRig](https://xmrig.com/), [systemd](https://systemd.io/), [Textual](https://textual.textualize.io/), [SQLite](https://www.sqlite.org/), [asyncio](https://docs.python.org/3/library/asyncio.html), [FastAPI](https://fastapi.tiangolo.com), [Uvicorn](http://uvicorn.dev/).
-
-
 ---
 
 ## Bank of Montreal – BMO
