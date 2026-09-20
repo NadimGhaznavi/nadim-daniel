@@ -27,6 +27,20 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 |-----------------------------------------------------------|
 | January 2024 – Present                                    |
 
+### Ax3l Project - Autonomous LLM Agent tunes Neural Network
+*September 2026*
+
+The [Ax3l Project](https://ax3l.osoyalce.com) project uses a locally hosted LLM to tune a simple Recurrent Neural Network. 
+
+- Uses the Snake Lab Server to run simulations
+- Passes simulation results to the LLM
+- Prompts the LLM for a new better parameter values
+- Provides a rich reporting layer
+- Provides [live experiment data](https://snakeweb.osoyalce.com)
+
+**Tech Stack:**
+[Python](https://www.python.org/), [ZeroMQ](https://zeromq.org/), [MariaDb](https://www.mariadb.com/), [Plotly](https://plotly.com), [Jinja2](https://jinja.palletsprojects.com/en/stable/), [llama.cpp](https://llama-cpp.com/), and [Qwen 3.5 4B](https://huggingface.co/Qwen/Qwen3.5-4B).
+
 ### Snake Lab Server - Simulation Server
 *September 2026*
 
