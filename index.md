@@ -312,3 +312,4 @@ The [AI Snake Lab](https://snakelab.osoyalce.com) is a fully modular AI training
 ---
 
 [Resume in .docx format](/Nadim-Daniel.docx)
+
