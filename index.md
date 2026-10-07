@@ -27,6 +27,33 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 |-----------------------------------------------------------|
 | January 2024 – Present                                    |
 
+### BMDynIP - Local Dynamic DNS Service
+*October 2026*
+
+The [BMDynIP Service](https://bmdynip.osoyalce.com) is a dynamic DNS service.
+
+- Runs as a Linux service.
+- Provides a web interface for configuring the service and managing hostnames.
+- Detects your public IP address and checks it periodically.
+- Updates your GoDaddy DNS records when your IP address changes.
+- Stores state and history in MariaDB.
+
+**Tech Stack:**
+[Python](https://www.python.org/), [ZeroMQ](https://zeromq.org/), [MariaDb](https://www.mariadb.com/), [Jinja2](https://jinja.palletsprojects.com/en/stable/), [cron](https://en.wikipedia.org/wiki/Cron), [GoDaddy gddy](https://github.com/godaddy/cli)
+
+### BMGeoIP - Local GeoIP Service
+*September 2026*
+
+The [BMGeoIP Service](https://bmgeoip.osoyalce.com) maps IP addresses to physical locations. The application:
+
+- Provides an integrated web interface.
+- Downloads public geolocation data from [ipapi.is](https://ipapi.is/) on a configurable schedule.
+- Stores records in an optimized MariaDB database.
+- Provides HTTP and ZMQ API access.
+
+**Tech Stack:**
+[Python](https://www.python.org/), [ZeroMQ](https://zeromq.org/), [MariaDb](https://www.mariadb.com/), [Jinja2](https://jinja.palletsprojects.com/en/stable/), [cron](https://en.wikipedia.org/wiki/Cron), [ipapi.is](https://ipapi.is/)
+
 ### Ax3l Project - Autonomous LLM Agent tunes Neural Network
 *September 2026*
 
