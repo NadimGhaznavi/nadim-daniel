@@ -15,7 +15,9 @@ markdown: GFM
 
 # Career Summary
 
-Systems architect and Linux systems professional with 20+ years of experience building and maintaining complex infrastructure. Recently expanded into AI/ML with the development of **AI Snake Lab** and **AI Hydra** and explored security analysis during a 1.5-year senior analyst role. Proven ability to lead technical teams, optimize workflows, and deliver reliable solutions in high-stakes environments. Took a planned career break from IT to focus on hands-on work and personal projects.
+Systems architect and Linux systems professional with 20+ years of experience building and maintaining complex infrastructure. Expanded into AI/ML most recently with the **R3el** and **Ax3l** projects. Explored security analysis during a 1.5-year senior analyst role. Proven ability to lead technical teams, optimize workflows, and deliver reliable solutions in high-stakes environments.
+
+**Extreme** Python project velocity with careful Codex integration into an architecture centric SDLC. See GitHub project changelogs for development style and speed.
 
 ---
 
