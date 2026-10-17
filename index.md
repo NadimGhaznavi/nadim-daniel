@@ -30,9 +30,9 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 | January 2024 – Present                                    |
 
 ### MyCount - Self-Hosted Website Analytics Platform
-*October 2026*
+*September - October 2026*
 
-[MyCount](https://mycount.osoyalce.com) gathers website visitor data from all sites within a domain and presents a rich reporting dashboard. The application also includes a *marketing* interface which acts as a journal to correlate promotional events with website traffic.
+[MyCount](https://mycount.osoyalce.com) gathers website visitor data from all sites within a domain and presents a rich reporting dashboard. The application includes a *marketing* interface that acts as a journal to correlate promotional events with website traffic.
 
 ### DiskHA - Disk Replication, Monitoring, and Alerting
 *October 2026*
