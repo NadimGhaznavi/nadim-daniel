@@ -27,6 +27,20 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 |-----------------------------------------------------------|
 | January 2024 – Present                                    |
 
+### DiskHA - Disk Replication, Monitoring, and Alerting
+*October 2026*
+
+The [DiskHA Application](https://diskha.osoyalce.com) implements basic disk replication between two local disks. DiskHA uses rsync to synchronize the data and cron to schedule it. It ships with easy-to-use install and uninstall scripts. DiskHA also includes a web interface to:
+
+- Choose source and target directories.
+- Set a SMART health check (cron) schedule.
+- Set a (rsync) data synchronization (cron) schedule.
+- Execute a manual (SMART) health check.
+- Email a (SMART) disk report to a Gmail account.
+
+**Tech Stack:**
+[Python](https://www.python.org/), [Jinja2](https://jinja.palletsprojects.com/en/stable/), [cron](https://en.wikipedia.org/wiki/Cron), [Gmail](https://gmail.com)
+
 ### BMDynIP - Local Dynamic DNS Service
 *October 2026*
 
