@@ -29,10 +29,22 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 |-----------------------------------------------------------|
 | January 2024 – Present                                    |
 
+### BMForge - AI Assisted SDLC
+*October 2026 - Present*
+
+[**BMForge**](https://bmforge.osoyalce.com) is an open-source, specification-driven framework integrating AI coding agents into a human-governed SDLC. It defines architecture, standards, and procedures as reusable AI Skills, provides **bidirectional traceability** from specifications through modules to components, and maintains a growing library of **gold-standard, reusable software components** derived from real-world applications.
+
+**Tech Stack:**
+[Python](https://www.python.org/), [Codex Skills](https://github.com/NadimGhaznavi/bmforge/tree/main/skills), [Bash](https://www.gnu.org/software/bash/), [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github.com/)
+
 ### MyCount - Self-Hosted Website Analytics Platform
-*September - October 2026*
+*September 2026 - Present*
 
 [MyCount](https://mycount.osoyalce.com) gathers website visitor data from all sites within a domain and presents a rich reporting dashboard. The application includes a *marketing* interface that acts as a journal to correlate promotional events with website traffic.
+
+**Tech Stack:**
+[Python](https://www.python.org/), [Gunicorn](https://gunicorn.org/), [Werkzeug](https://werkzeug.palletsprojects.com/), [MariaDB](https://www.mariadb.com/), [Jinja2](https://jinja.palletsprojects.com/en/stable/), [Plotly.js](https://plotly.com/javascript/), [Leaflet](https://leafletjs.com/), [Caddy](https://caddyserver.com/), [cron](https://en.wikipedia.org/wiki/Cron)
+
 
 ### DiskHA - Disk Replication, Monitoring, and Alerting
 *October 2026*
