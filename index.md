@@ -29,6 +29,14 @@ Systems architect and Linux systems professional with 20+ years of experience bu
 |-----------------------------------------------------------|
 | January 2024 – Present                                    |
 
+### DevLog - Git Time Tracker
+*November 2026*
+
+[**DevLog**](https://devlog.osoyalce.com) is a client/server time tracker that hooks into git to show task, project, daily and weekly metrics. This application introduces minimal friction (one new `dl start` command) to deliver focused reporting.
+
+**Tech Stack:**
+[Python](https://www.python.org/), [Git](https://git-scm.com/), [Jinja2](https://jinja.palletsprojects.com/en/stable/), [MariaDB](https://www.mariadb.com/), [ZeroMQ](https://zeromq.org/)
+
 ### BMForge - AI Assisted SDLC
 *October 2026*
 
